@@ -52,9 +52,3 @@ Desarrollo soluciones software que combinan una base técnica sólida con creati
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-  <sub>Abierto a colaboraciones en proyectos de investigación en IA, desarrollo de software y tecnología audiovisual.</sub>
-</div>

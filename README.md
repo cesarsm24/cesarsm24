@@ -4,7 +4,7 @@
 
 **Ingeniero Informático · Ingeniería del Software · IA y Medios Audiovisuales**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Sánchez_Montes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A9sar-s%C3%A1nchez-montes-7527b5409/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-César_Sánchez_Montes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarsm24)
 [![Email](https://img.shields.io/badge/Email-csanchezmontes9@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:csanchezmontes9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cesarsm24-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cesarsm24)
 

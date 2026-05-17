@@ -16,7 +16,7 @@
 
 Estudiante de último año del Grado en Ingeniería Informática, especializado en Ingeniería del Software, con especial interés en la inteligencia artificial aplicada al ámbito audiovisual: audio, imagen, vídeo, visión por computador, deep learning, machine learning e IA generativa orientada a la generación musical.
 
-Desarrollo soluciones software que combinan una base técnica sólida con creatividad, escalabilidad y utilidad real. Incorporo herramientas y agentes de IA en mi flujo de trabajo para mejorar la productividad en programación, análisis y automatización de tareas, manteniendo siempre criterio técnico y aplicando los principios de ingeniería del software adquiridos durante mi formación.
+Desarrollo soluciones software que combinan una base técnica sólida con creatividad, escalabilidad y utilidad real. Integro herramientas, agentes y workflows de IA en mi forma de trabajar para mejorar la productividad en programación, análisis y automatización de tareas, manteniendo siempre criterio técnico, supervisión humana y una base sólida en principios de ingeniería del software.
 
 ---
 
